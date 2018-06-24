@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XunFeiDemo</string>
+
+
+    <!-- 请替换成在语音云官网申请的appid -->
+    <string name="app_id">5a31e85e</string><!--5a31e85e--><!--5a310788-->
+</resources>

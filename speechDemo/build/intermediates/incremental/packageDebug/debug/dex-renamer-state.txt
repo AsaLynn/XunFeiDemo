@@ -1,0 +1,4 @@
+#Thu Dec 14 14:48:21 CST 2017
+base.0=D\:\\BaWei\\temp\\xunfei\\XunFeiDemo\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
